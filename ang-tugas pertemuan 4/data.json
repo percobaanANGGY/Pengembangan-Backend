@@ -1,0 +1,62 @@
+[
+    {
+      "id": 1,
+      "nama": "Router TP-Link Archer C6",
+      "harga": 550000,
+      "stok": 10
+    },
+    {
+      "id": 2,
+      "nama": "Modem Huawei 4G LTE",
+      "harga": 750000,
+      "stok": 8
+    },
+    {
+      "id": 3,
+      "nama": "WiFi Extender Xiaomi Pro",
+      "harga": 250000,
+      "stok": 15
+    },
+    {
+      "id": 4,
+      "nama": "Access Point Ubiquiti UniFi",
+      "harga": 1500000,
+      "stok": 5
+    },
+    {
+      "id": 5,
+      "nama": "USB WiFi Adapter TP-Link",
+      "harga": 125000,
+      "stok": 20
+    },
+    {
+      "id": 6,
+      "nama": "Repeater Tenda A9",
+      "harga": 230000,
+      "stok": 12
+    },
+    {
+      "id": 7,
+      "nama": "Switch Hub 8 Port D-Link",
+      "harga": 320000,
+      "stok": 10
+    },
+    {
+      "id": 8,
+      "nama": "Router Mesh Tenda Nova MW3",
+      "harga": 1200000,
+      "stok": 6
+    },
+    {
+      "id": 9,
+      "nama": "Modem Fiber ZTE F609",
+      "harga": 680000,
+      "stok": 7
+    },
+    {
+      "id": 10,
+      "nama": "Kabel LAN Cat6 10 meter",
+      "harga": 80000,
+      "stok": 25
+    }
+  ]  
